@@ -1,0 +1,34 @@
+{
+  "client": "hello",
+  "businessName": "hello",
+  "uploadDate": "2025-12-30T20:17:11.734Z",
+  "assets": {
+    "hero": [
+      {
+        "filename": "basic.png",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/hello/hero/basic.png"
+      },
+      {
+        "filename": "custom.png",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/hello/hero/custom.png"
+      },
+      {
+        "filename": "diamon.png",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/hello/hero/diamon.png"
+      },
+      {
+        "filename": "fullset.png",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/hello/hero/fullset.png"
+      },
+      {
+        "filename": "openface.png",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/hello/hero/openface.png"
+      },
+      {
+        "filename": "richard.png",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/hello/hero/richard.png"
+      }
+    ]
+  },
+  "totalFiles": 6
+}

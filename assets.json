@@ -1,7 +1,6 @@
 {
   "client": "hello",
-  "businessName": "hello",
-  "uploadDate": "2025-12-30T20:17:11.734Z",
+  "updated_at": "2025-12-30T20:17:13.799Z",
   "assets": {
     "hero": [
       {
@@ -29,6 +28,5 @@
         "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/hello/hero/richard.png"
       }
     ]
-  },
-  "totalFiles": 6
+  }
 }
